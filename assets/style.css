@@ -13,7 +13,7 @@ header {
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #fce138
+    color: #fce138;
     margin: 0;
     display: inline;
 }
@@ -29,7 +29,7 @@ header nav {
 }
 
 header nav ul li {
-    display: inline
+    display: inline;
 }
 
 header nav ul li a {
@@ -45,14 +45,14 @@ header nav ul li a {
 }
 
 footer {
-    background: #fce138
-    width: 100%
+    background: #fce138;
+    width: 100%;
     padding: 40px 35px;
 }
 
 footer h2 {
     display: inline;
-    color: #024e76
+    color: #024e76;
     font-size: 30px;
     margin: 0;
 }
@@ -64,5 +64,5 @@ footer div {
 }
 
 footer a {
-    color: #024e76
+    color: #024e76;
 }
